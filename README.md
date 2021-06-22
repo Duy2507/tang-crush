@@ -8,23 +8,20 @@ Liên lạc:
 Mở file config.js sửa nội dung theo mẫu
 ```
 const CONFIG = {
-    introTitle: 'Em à!',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
-    btnIntro: 'hihi',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Vẫn cứ là thích anh <33',
-    btnNo: 'Không, Anh trai à :3',
-    question:'Trên thế giới hơn 7 tỉ người mà sao em lại yêu anh <3',
-    btnReply: 'Gửi cho anh <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h anh qua đón nhé công chúa.',
-    btnAccept: 'Okiiiii lun <3',
-    messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    introTitle: 'Linh thân mến!',
+    introDesc: `Đã gần 2 năm rồi kể từ lúc chúng ta chân ướt chân ráo bước vào cấp 3 này! Chúng ta giờ đây đều có những cảm nhận riêng của mình đối với mọi người. Đối với mình thì Linh là một lớp trưởng dễ thương, tốt bụng, luôn tận tâm với công việc và mọi người. Đến đây thì mình chỉ muốn nói là ... `,
+    btnIntro: 'Tiếp tục',
+    title: 'Mình thích bạn <3 Có lẽ hơi đường đột và ích kỷ khi nói ra điều này, nhưng mà ...',
+    desc: 'Chúng ta hẹn hò được không? ',
+    btnYes: 'Oui, pourquoi pas?',
+    btnNo: 'Désolé, mais ...',
+    question:'2 + 3 bằng mấy?',
+    btnReply: 'Gửi cho Duy',
+    reply: '2 + 3 = 5',
+    mess: 'Vậy thì đưa bàn tay của em cho anh nắm này ~',
+    messDesc: 'Thế là ta thành đôi rồi à? :v',
+    btnAccept: 'Đúng rùi :3',
+    messLink: 'https://www.messenger.com/t/100010473130842' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
 ```
 
